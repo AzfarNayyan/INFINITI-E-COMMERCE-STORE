@@ -1,0 +1,120 @@
+.labelEmail,
+.labelLname {
+  left: 393px;
+  width: 244px;
+  height: 31px;
+}
+.labelLname {
+  position: absolute;
+  top: 478px;
+  display: inline-block;
+}
+.labelEmail {
+  top: 509px;
+}
+.labelEmail,
+.labelFname,
+.labelMname,
+.titleSignIn {
+  position: absolute;
+  display: inline-block;
+}
+.titleSignIn {
+  top: 256px;
+  left: 489px;
+  font-size: 48px;
+  text-align: center;
+  width: 471px;
+  height: 78px;
+}
+.labelFname,
+.labelMname {
+  top: 405px;
+  left: 393px;
+  width: 244px;
+  height: 30px;
+}
+.labelMname {
+  top: 441px;
+  height: 31px;
+}
+.btnSignIn,
+.btnSignIn1 {
+  position: absolute;
+  top: 829px;
+  left: 407px;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-black);
+  width: 217px;
+  height: 71px;
+}
+.btnSignIn1 {
+  left: 867px;
+}
+.txtSignIn,
+.txtSignIn1 {
+  position: absolute;
+  top: 851px;
+  left: 434px;
+  font-size: var(--font-size-5xl);
+  font-weight: 900;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 162px;
+  height: 41px;
+}
+.txtSignIn1 {
+  top: 850px;
+  left: 889px;
+  width: 174px;
+  height: 56px;
+}
+.boxSignIn {
+  position: absolute;
+  top: 225px;
+  left: 316px;
+  border-radius: 50px;
+  width: 831px;
+  height: 720px;
+}
+.logoIcon {
+  position: absolute;
+  top: 78px;
+  left: 111px;
+  width: 90px;
+  height: 67px;
+  object-fit: cover;
+}
+.infiniti {
+  position: absolute;
+  top: 134px;
+  left: 97px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 800;
+  font-family: var(--font-poppins);
+  text-align: center;
+  display: inline-block;
+  width: 118px;
+  height: 21px;
+}
+.topbar12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1460px;
+  height: 49px;
+  object-fit: cover;
+}
+.adminremoveProduct {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

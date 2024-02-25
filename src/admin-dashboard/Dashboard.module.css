@@ -1,0 +1,79 @@
+.logoIcon {
+    position: absolute;
+    top: 60px;
+    left: 45px;
+    width: 90px;
+    height: 67px;
+    object-fit: cover;
+  }
+  .infiniti {
+    position: absolute;
+    top: 116px;
+    left: 31px;
+    line-height: 24px;
+    font-weight: 800;
+    display: inline-block;
+    width: 118px;
+    height: 21px;
+  }
+  .footer111,
+  .frame9321,
+  .topbar13 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1460px;
+    height: 49px;
+    object-fit: cover;
+  }
+  .footer111,
+  .frame9321 {
+    top: 400px;
+    left: 70px;
+    width: 1339px;
+    height: 473px;
+  }
+  .footer111 {
+    top: 1580px;
+    left: 0;
+    width: 1480px;
+    height: 117px;
+  }
+  .dashboard1 {
+    position: absolute;
+    top: 221px;
+    left: 431px;
+    font-size: 48px;
+    line-height: 24px;
+    display: inline-block;
+    font-weight: 800;
+    width: 560px;
+    height: 38px;
+  }
+  .blankLine {
+    margin: 0;
+  }
+  .totalSales000Container {
+    position: absolute;
+    top: 297px;
+    left: 72px;
+    font-size: 32px;
+    line-height: 24px;
+    display: inline-block;
+    font-weight: 800;
+    white-space: pre-wrap;
+    width: 462px;
+    height: 358px;
+  }
+  .dashboard {
+    position: relative;
+    background-color: var(--bg);
+    width: 100%;
+    height: 1697px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 18px;
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  

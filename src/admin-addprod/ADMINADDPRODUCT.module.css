@@ -1,0 +1,178 @@
+.discription {
+    margin: 0;
+  }
+  .labelLnameContainer {
+    top: 502px;
+    left: 421px;
+    font-weight: 900;
+    width: 244px;
+    height: 31px;
+  }
+  .labelFname,
+  .labelLnameContainer,
+  .labelMname,
+  .titleSignIn {
+    position: absolute;
+   
+  }
+  .titleSignIn {
+    top: 271px;
+    left: 567px;
+    font-size: 48px;
+    text-align: center;
+    width: 361px;
+    height: 78px;
+  }
+  .labelFname,
+  .labelMname {
+    top: 429px;
+    left: 421px;
+    font-weight: 900;
+    width: 244px;
+    height: 30px;
+  }
+  .labelMname {
+    top: 465px;
+    height: 31px;
+  }
+  .boxSignIn {
+    position: absolute;
+    top: 210px;
+    left: 305px;
+    border-radius: 50px;
+    width: 831px;
+    height: 720px;
+  }
+  .addPicture {
+    position: absolute;
+    top: 617px;
+    left: 421px;
+    display: inline-block;
+    width: 299px;
+    height: 37px;
+  }
+  .btnSignIn,
+  .btnSignIn1 {
+    position: absolute;
+    top: 780px;
+    left: 424px;
+    border-radius: var(--br-23xl);
+    background-color: var(--color-black);
+    width: 217px;
+    height: 71px;
+  }
+  .btnSignIn1 {
+    left: 884px;
+ 
+  }
+  .txtSignIn,
+  .txtSignIn1 {
+    position: absolute;
+    top: 802px;
+    left: 451px;
+    font-size: var(--font-size-5xl);
+    font-weight: 900;
+    color: var(--color-white);
+
+    width: 162px;
+    height: 41px;
+  }
+ 
+  .logoIcon {
+    position: absolute;
+    top: 72px;
+    left: 59px;
+    width: 90px;
+    height: 67px;
+    object-fit: cover;
+  }
+  .infiniti {
+    position: absolute;
+    top: 128px;
+    left: 45px;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 800;
+    font-family: var(--font-poppins);
+    text-align: center;
+    display: inline-block;
+    width: 118px;
+    height: 21px;
+  }
+  .topbar11 {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    width: 1460px;
+    height: 49px;
+    object-fit: cover;
+  }
+  .adminaddProduct {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-roboto);
+  }
+  
+
+.inputField{
+  position: relative;
+  width: 350px;
+  height: 20px;
+  padding: 8px;
+  margin-left: 650px;
+  margin-top: -10px;
+}
+.inputField2{
+  position: relative;
+  width: 350px;
+  height: 20px;
+  padding: 8px;
+  margin: 20px;
+  margin-left: 650px;
+  margin-top: 410px;
+}
+.inputField1{
+  position: relative;
+  width: 500px;
+  height: 50px;
+  padding: 8px;
+  margin: 20px;
+  margin-left: 650px;
+  margin-top: 20px;
+}
+.inputField3 {
+  position: relative;
+  width: 500px;
+  height: 50px;
+  padding: 8px;
+  margin: 20px;
+  margin-left: 650px;
+  margin-top: 40px;
+}
+
+
+.addPicture {
+  margin-top: 20px;
+}
+
+.txtSignIn {
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+  background-color: #000000;
+  color: #fff;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  left: 660px;
+}
+
+.txtSignIn:hover {
+  background-color: #616161;
+}

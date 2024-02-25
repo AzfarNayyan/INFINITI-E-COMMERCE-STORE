@@ -1,0 +1,208 @@
+.exclusive {
+    position: absolute;
+    top: 0;
+    left: 0;
+    letter-spacing: 0.03em;
+    line-height: 24px;
+    display: none;
+  }
+  .logo {
+    position: relative;
+    width: 118px;
+    height: 24px;
+  }
+  .home {
+    position: absolute;
+    top: 0;
+    left: 2px;
+    line-height: 24px;
+  }
+  .header1 {
+    position: relative;
+    width: 170px;
+    height: 50px;
+    cursor: pointer;
+  }
+  .contact1 {
+    position: relative;
+    line-height: 24px;
+    right: 60px;
+  }
+  .underlineIcon {
+    position: relative;
+    width: 66px;
+    height: 1px;
+    opacity: 0.5;
+  }
+  .header2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .header4 {
+    position: relative;
+    width: 61px;
+    height: 24px;
+    cursor: pointer;
+  }
+  .headerParent,
+  .logoParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .headerParent {
+    gap: var(--gap-29xl);
+    text-align: center;
+    font-size: var(--title-16px-regular-size);
+    font-family: var(--title-12px-regular);
+  }
+  .logoParent {
+    gap: var(--gap-141xl);
+  }
+  .whatAreYou {
+    position: relative;
+    line-height: 18px;
+    opacity: 0.5;
+  }
+  .component2Icon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .whatAreYouLookingForParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-15xl);
+  }
+  .searchComponentSet {
+    border-radius: var(--br-9xs);
+    background-color: var(--secondary);
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xs) var(--padding-xs) var(--padding-6xs)
+      var(--padding-xl);
+  }
+  .wishlistIcon {
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .cart1WithBuy,
+  .wishlistIcon {
+    position: relative;
+    width: 32px;
+    height: 32px;
+  }
+  .wishlistParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-base);
+  }
+  .header,
+  .searchComponentSetParent {
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .searchComponentSetParent {
+    display: none;
+    gap: var(--gap-5xl);
+    font-size: var(--title-12px-regular-size);
+    font-family: var(--title-12px-regular);
+  }
+  .header {
+    position: absolute;
+    top: 83px;
+    left: 628px;
+    display: flex;
+    gap: 130px;
+    text-align: left;
+    font-family: var(--heading-24px-bold);
+  }
+  .logoIcon {
+    position: absolute;
+    top: 48px;
+    left: 85px;
+    width: 90px;
+    height: 67px;
+    object-fit: cover;
+  }
+  .infiniti {
+    position: absolute;
+    top: 103px;
+    left: 71px;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 800;
+    text-align: center;
+    display: inline-block;
+    width: 118px;
+    height: 21px;
+  }
+  .logoIcon1 {
+    position: absolute;
+    height: 4.93%;
+    width: 6.25%;
+    top: 3.9%;
+    right: 84.24%;
+    bottom: 91.18%;
+    left: 9.51%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .footer2Icon,
+  .frame8581,
+  .topHeader1 {
+    position: absolute;
+    top: 196px;
+    left: -5px;
+    width: 566px;
+    height: 634px;
+    object-fit: cover;
+  }
+  .footer2Icon{
+    top: 4461px;
+    left: 0;
+    width: 1583px;
+    height: 229px;
+  }
+  .topHeader1 {
+    top: 924px;
+    left: -5px;
+    width: 1440px;
+    height: 440px;
+  }
+  .footer1Icon {
+    width: 100%; 
+    position: absolute; 
+    bottom: 0;
+    left: -10px;
+  }
+  .topHeader1 {
+    top: 0;
+    height: 48px;
+  }
+  .contact {
+    position: relative;
+    background-color: var(--bg);
+    width: 100%;
+    height: 1360px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--heading-24px-bold-size);
+    color: var(--text2);
+    font-family: var(--title-12px-regular);
+  }
+  

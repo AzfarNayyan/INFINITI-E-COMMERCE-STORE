@@ -1,0 +1,396 @@
+.footer1Icon {
+    width: 100%; 
+    position: absolute; 
+    bottom: 0;
+    left: -10px;
+  }
+  .infiniti {
+    position: absolute;
+    top: 103px;
+    left: 71px;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 800;
+    text-align: center;
+    display: inline-block;
+    width: 118px;
+    height: 21px;
+    }
+    .linkCopiedModal {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: fixed;
+      top: -260px;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    
+    .linkCopiedMessageBox {
+      height: 90px;
+      width: 250px;
+      background-color: #000000; 
+      padding: 20px;
+      border-radius: 8px;
+      text-align: center;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    
+    .linkCopiedMessage {
+      color: #ffffff; 
+      font-size: 18px;
+      font-weight: bolder;
+    }
+    .addToCart {
+      position: relative;
+      line-height: 24px;
+      font-weight: 500;
+      left: -20px;
+      top: -80px;
+      text-decoration: none;
+      display: inline-block; 
+      padding: 10px 20px;
+      background-color: rgb(0, 0, 0);
+      color: #ffffff; 
+      border: none; 
+      border-radius: 4px; 
+      cursor: pointer; 
+      text-align: center; 
+      transition: background-color 0.3s ease; 
+    
+    }
+    .addToCart1 {
+      position: relative;
+      line-height: 24px;
+      font-weight: 500;
+      left: -10px;
+      top: -80px;
+      text-decoration: none;
+      display: inline-block; 
+      padding: 10px 20px;
+      background-color: rgb(0, 0, 0);
+      color: #ffffff; 
+      border: none; 
+      border-radius: 4px; 
+      cursor: pointer; 
+      text-align: center; 
+      transition: background-color 0.3s ease; 
+    
+    }
+    .addToCart2 {
+      position: relative;
+      line-height: 24px;
+      font-weight: 500;
+      left: 1px;
+      top: -80px;
+      text-decoration: none;
+      padding: 10px 20px;
+      background-color: rgb(0, 0, 0);
+      color: #ffffff; 
+      border: none; 
+      border-radius: 4px; 
+      cursor: pointer; 
+      text-align: center; 
+      transition: background-color 0.3s ease; 
+    }
+    .addToCart:hover {
+      background-color: #737577; 
+      color: #ffffff; 
+      text-decoration: none;
+    }
+    .addToCart1:hover {
+      background-color: #737577; 
+      color: #ffffff; 
+      text-decoration: none;
+    }
+    .addToCart2:hover {
+      background-color: #737577; 
+      color: #ffffff; 
+      text-decoration: none;
+    }
+    .logoIcon {
+      position: absolute;
+      top: 48px;
+      left: 85px;
+      width: 90px;
+      height: 67px;
+      object-fit: cover;
+    }
+    .exclusive {
+      position: absolute;
+      top: 0;
+      left: 0;
+      letter-spacing: 0.03em;
+      line-height: 24px;
+    }
+    .home,
+    .logo {
+      position: relative;
+    }
+    .logo {
+      width: 118px;
+      height: 24px;
+      display: none;
+    }
+    .home {
+      line-height: 24px;
+    }
+    .underlineIcon {
+      position: relative;
+      width: 48px;
+      height: 1px;
+      opacity: 0.5;
+    }
+    .header1 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      cursor: pointer;
+    }
+    .contact {
+      position: absolute;
+      top: 0;
+      left: 0;
+      line-height: 24px;
+      cursor: pointer;
+    }
+    .header2 {
+      position: relative;
+      width: 66px;
+      height: 24px;
+    }
+    .about {
+      position: absolute;
+      top: 0;
+      left: 0;
+      line-height: 24px;
+    }
+    .header3,
+    .header4 {
+      position: relative;
+      height: 24px;
+    }
+    .header3 {
+      width: 48px;
+      cursor: pointer;
+    }
+    .header4 {
+      width: 61px;
+      display: none;
+    }
+    .frame,
+    .headerParent {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      justify-content: flex-start;
+    }
+    .headerParent {
+      gap: var(--gap-29xl);
+      text-align: center;
+      font-size: var(--title-16px-medium-size);
+      font-family: var(--title-16px-medium);
+    }
+    .frame {
+      gap: 190px;
+    }
+    .whatAreYou {
+      position: relative;
+      line-height: 18px;
+      opacity: 0.5;
+    }
+    .component2Icon {
+      position: relative;
+      width: 24px;
+      height: 24px;
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+    .whatAreYouLookingForParent {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      gap: var(--gap-15xl);
+    }
+    .searchComponentSet {
+      border-radius: var(--br-9xs);
+      background-color: var(--secondary);
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: var(--padding-6xs) var(--padding-xs) var(--padding-6xs)
+        var(--padding-xl);
+    }
+    .wishlistIcon {
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+    .cart1WithBuy,
+    .userIcon,
+    .wishlistIcon {
+      position: relative;
+      width: 32px;
+      height: 32px;
+    }
+    .cart1WithBuy {
+      cursor: pointer;
+    }
+    .userIcon {
+      overflow: hidden;
+      flex-shrink: 0;
+      display: none;
+    }
+    .wishlistParent {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      gap: var(--gap-base);
+    }
+    .header,
+    .searchComponentSetParent {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
+    }
+    .searchComponentSetParent {
+      gap: var(--gap-5xl);
+      font-size: var(--title-12px-regular-size);
+      font-family: var(--title-16px-medium);
+    }
+    .header {
+      position: absolute;
+      top: 82px;
+      left: 762px;
+      background-color: transparent;
+      width: 888px;
+      gap: var(--gap-129xl);
+      font-family: var(--heading-24px-regular);
+    }
+    .div,
+    .gamingKeyboard,
+    .infiniti1 {
+      position: absolute;
+      line-height: 24px;
+    }
+    .infiniti1 {
+      top: 1605px;
+      left: 525px;
+      font-size: 32px;
+      display: inline-block;
+      font-weight: 800;
+      color: var(--bg);
+      text-align: center;
+      width: 375px;
+      height: 72px;
+    }
+    .div,
+    .gamingKeyboard {
+      left: 901px;
+      letter-spacing: 0.03em;
+      font-family: var(--heading-24px-regular);
+      font-size: 40px;
+      font-style: bolder;
+      font-weight: 100;
+      top: 50px;
+    }
+    .gamingKeyboard {
+      top: 404px;
+      font-weight: 600;
+    }
+    .div {
+      top: 451px;
+    }
+    .rgbGamingKeyboard {
+      position: absolute;
+      top: 498px;
+      left: 907px;
+      font-size: var(--font-size-lg);
+      line-height: 21px;
+      display: inline-block;
+      width: 416px;
+      height: 69px;
+  
+      font-size: x-large;
+   
+    }
+    
+    .button,
+    .button1,
+    .button2 {
+      position: absolute;
+      border-radius: var(--br-9xs);
+      background-color: var(--text2);
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      padding: var(--padding-3xs) var(--padding-29xl);
+      font-size: var(--title-16px-medium-size);
+      color: var(--text);
+      text-decoration: none;
+    }
+    .button {
+      top: 630px;
+      left: 1003px;
+      text-decoration: none;
+    }
+    .button1,
+    .button2 {
+      top: 712px;
+      text-decoration: none;
+    }
+    .button1 {
+      left: 884px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .button2 {
+      left: 1107px;
+      text-decoration: none;
+    }
+    .frame92711,
+    .frame9302,
+    .frame9311 {
+      position: absolute;
+      top: 1257px;
+      left: 0;
+      width: 1440px;
+      height: 440px;
+      object-fit: cover;
+    }
+    .frame92711{
+      left: -5px;
+    }
+    .frame9311 {
+      top: 0;
+      width: 1200px;
+      height: 30px;
+    }
+    .frame9311 {
+      top: 196px;
+      left: 16px;
+      width: 794px;
+      height: 712px;
+      width: 600px;
+      height: 600px;
+      left: 200px;
+    }
+    .productDisplay {
+      position: relative;
+      background-color: var(--bg);
+      width: 100%;
+      height: 1697px;
+      overflow: hidden;
+      text-align: left;
+      font-size: var(--heading-24px-regular-size);
+      color: var(--text2);
+      font-family: var(--title-16px-medium);
+      
+    }
+    

@@ -1,0 +1,20 @@
+/* ProductItem.module.css */
+
+.productItem {
+    display: flex;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .productImage {
+    width: 100px; /* Adjust the image width as needed */
+    height: 100px; /* Adjust the image height as needed */
+    margin-right: 10px;
+  }
+  
+  .productInfo {
+    flex: 1;
+  }
+  
+  

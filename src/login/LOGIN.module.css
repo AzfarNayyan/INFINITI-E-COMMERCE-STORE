@@ -1,0 +1,268 @@
+.exclusive {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 24px;
+}
+.footer1Icon {
+  width: 100%; 
+  position: absolute; 
+  bottom: 0;
+  left: -10px;
+}
+.logo {
+  position: relative;
+  width: 118px;
+  height: 24px;
+  display: none;
+}
+.home {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+}
+.header1,
+.header2 {
+  position: relative;
+  width: 48px;
+  height: 24px;
+  cursor: pointer;
+}
+.header2 {
+  width: 66px;
+}
+.signUp {
+  position: relative;
+  line-height: 24px;
+}
+.underlineIcon {
+  position: relative;
+  width: 61px;
+  height: 0;
+  opacity: 0.5;
+}
+.header4 {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.headerParent,
+.logoParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.headerParent {
+  gap: var(--gap-29xl);
+  text-align: center;
+  font-size: var(--title-16px-regular-size);
+  font-family: var(--title-12px-regular);
+}
+.logoParent {
+  gap: 232px;
+}
+.whatAreYou {
+  position: relative;
+  line-height: 18px;
+  opacity: 0.5;
+}
+.component2Icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.whatAreYouLookingForParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-15xl);
+}
+.searchComponentSet {
+  border-radius: var(--br-9xs);
+  background-color: var(--secondary);
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xs) var(--padding-6xs)
+    var(--padding-xl);
+}
+.wishlistIcon {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.cart1Icon,
+.groupChild {
+  position: absolute;
+  bottom: 0;
+}
+.cart1Icon {
+  height: 75%;
+  width: 75%;
+  top: 25%;
+  right: 21.88%;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild {
+  height: 94.12%;
+  width: 100%;
+  top: 5.88%;
+  right: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--secondary-2);
+}
+.div {
+  position: absolute;
+  height: 100%;
+  width: 43.75%;
+  top: 0;
+  left: 31.25%;
+  line-height: 18px;
+  display: inline-block;
+}
+.ellipseParent {
+  position: absolute;
+  height: 53.13%;
+  width: 50%;
+  top: 3.13%;
+  right: 3.13%;
+  bottom: 43.75%;
+  left: 46.88%;
+}
+.cart1WithBuy,
+.userIcon {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.cart1WithBuy {
+  display: none;
+}
+.userIcon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.wishlistParent {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+  text-align: center;
+  color: var(--text);
+}
+.header,
+.searchComponentSetParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.searchComponentSetParent {
+  gap: var(--gap-5xl);
+  font-size: var(--title-12px-regular-size);
+  font-family: var(--title-12px-regular);
+}
+.header {
+  position: absolute;
+  top: 80px;
+  left: 788px;
+  gap: 210px;
+}
+.loginChild {
+  position: absolute;
+  top: 158px;
+  left: 0;
+  width: 1440px;
+  height: 0.5px;
+}
+.ecommerceWebsiteDesign2Icon,
+.frame7662 {
+  position: absolute;
+  top: 318px;
+  left: 917px;
+  width: 423px;
+  height: 459px;
+  object-fit: cover;
+}
+.ecommerceWebsiteDesign2Icon {
+  top: 276px;
+  left: 19px;
+  width: 793px;
+  height: 542px;
+}
+.infiniti {
+  position: absolute;
+  top: 103px;
+  left: 71px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 800;
+  text-align: center;
+  display: inline-block;
+  width: 118px;
+  height: 21px;
+}
+.frame9301,
+.logoIcon{
+  position: absolute;
+  top: 48px;
+  left: 85px;
+  width: 90px;
+  height: 67px;
+  object-fit: cover;
+}
+.centeredGoogleLogin {
+  
+  justify-content: center;
+  align-items: center;
+  height: 170vh;
+
+}
+.topHeader12 {
+  position: absolute;
+  top: 73px;
+  left: 142px;
+  width: 90px;
+  height: 67px;
+  object-fit: cover;
+}
+.frame9301,
+.topHeader12 {
+  top: 1033px;
+  left: -5px;
+  width: 1440px;
+  height: 440px;
+}
+.topHeader12 {
+  top: 0;
+  left: -5px;
+  width: 1439px;
+  height: 48px;
+}
+.login {
+  position: relative;
+  background-color: var(--bg);
+  width: 100%;
+  height: 1473px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--heading-24px-bold-size);
+  color: var(--text2);
+  font-family: var(--heading-24px-bold);
+}

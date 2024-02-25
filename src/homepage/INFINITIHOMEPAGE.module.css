@@ -1,0 +1,373 @@
+.frame6841,
+.frame7381 {
+  position: absolute;
+  top: 3358px;
+  left: 154px;
+  width: 570px;
+  height: 600px;
+  object-fit: cover;
+}
+.frame7381 {
+  left: 871px;
+}
+.ourProductsText {
+  text-align: center;
+
+}
+
+.ourProductsText h2 {
+  font-size: 40px;
+  color: #6e6b6b; 
+  
+}
+.productCatalog {
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 990px;
+}
+.productCard {
+
+  border: 22px solid #6e6b6b;
+  padding: 50px;
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+.productCard a {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit the color from the parent (can be adjusted as needed) */
+}
+
+.productCard a:hover {
+  text-decoration: none; /* Remove underline on hover */
+  color: #6e6b6b;
+}
+
+
+
+
+.productImage {
+
+  max-width: 100%;
+  max-height: 150px;
+  margin-bottom: 10px;
+  border: radius 20px; 
+}
+
+
+.productName {
+  font-size: x-large;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.productPrice {
+  font-size: medium;
+  font-style: italic;
+  font-weight: bolder;
+  color: rgb(0, 0, 0);
+  margin-top: 5px;
+}
+.searchInput {
+  width: 319px; 
+  height: 38px;
+  padding: 5px;
+  margin-right: 10px;
+  background-color: #636161;
+}
+.infiniti {
+  position: absolute;
+  top: 4603px;
+  left: 573px;
+  line-height: 24px;
+  display: inline-block;
+  font-weight: 800;
+  color: var(--color-white);
+  width: 375px;
+  height: 72px;
+}
+.infinitiHomepageChild {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 1585px;
+  height: 772px;
+  object-fit: cover;
+}
+.infinitiHomepageItem {
+  position: absolute;
+  top: 50px;
+  left: -6px;
+  background-color: rgba(133, 133, 132, 0.23);
+  width: 1589px;
+  height: 77px;
+}
+.frame7301,
+.frame7351 {
+  position: absolute;
+  top: 2188px;
+  left: 224px;
+  width: 1170px;
+  height: 840px;
+  object-fit: cover;
+}
+.frame7301 {
+  top: 1671px;
+  left: 212px;
+  width: 1174px;
+  height: 341px;
+}
+.footer1Icon,
+.frame56011,
+.frame7321 {
+  position: absolute;
+  top: 976px;
+  left: 175px;
+  width: 1170px;
+  height: 518px;
+  object-fit: cover;
+}
+.footer1Icon,
+.frame56011 {
+  top: 281px;
+  left: 700px;
+  width: 696px;
+  height: 310px;
+}
+.footer1Icon {
+  top: 4461px;
+  left: 0;
+  width: 1583px;
+  height: 229px;
+}
+.infiniti1 {
+  position: absolute;
+  top: 4626px;
+  left: 585px;
+  line-height: 24px;
+  display: inline-block;
+  font-weight: 800;
+  color: var(--color-white);
+  width: 375px;
+  height: 56px;
+}
+.frame9271,
+.placeToInfoBox {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame9271 {
+  width: 1589px;
+  height: 57px;
+  left: -5px;
+  object-fit: cover;
+}
+.placeToInfoBox {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-9xs);
+  background-color: #dadada;
+  overflow: hidden;
+}
+.search {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  line-height: 24px;
+  opacity: 0.5;
+}
+.placeboxInfo {
+  position: absolute;
+  top: 65px;
+  left: 297px;
+  width: 330px;
+  height: 50px;
+  text-align: left;
+  font-size: var(--title-16px-regular-size);
+}
+.infinitiHomepageInner {
+  position: absolute;
+  top: 78px;
+  left: 550px;
+  width: 19px;
+  height: 32px;
+  object-fit: cover;
+}
+.infiniti2 {
+  position: absolute;
+  top: 97px;
+  left: 40px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 800;
+  display: inline-block;
+  width: 118px;
+  height: 21px;
+}
+.logoIcon {
+  position: absolute;
+  top: 45px;
+  left: 54px;
+  width: 90px;
+  height: 67px;
+  object-fit: cover;
+}
+.exclusive {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 24px;
+}
+.home,
+.logo {
+  position: relative;
+}
+.logo {
+  width: 118px;
+  height: 24px;
+  display: none;
+}
+.home {
+  line-height: 24px;
+}
+.underlineIcon {
+  position: relative;
+  width: 48px;
+  height: 1px;
+  opacity: 0.5;
+}
+.header1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100px;
+  justify-content: flex-start;
+}
+.contact {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  line-height: 24px;
+}
+.header2,
+.header3,
+.header4 {
+  position: relative;
+  width: 66px;
+  height: 24px;
+  cursor: pointer;
+}
+.header3,
+.header4 {
+  width: 100px;
+  height: 100px;
+}
+.header4 {
+  width: 61px;
+}
+.frame,
+.headerParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.headerParent {
+  gap: var(--gap-29xl);
+  text-align: center;
+  font-size: var(--title-16px-regular-size);
+  font-family: var(--title-12px-regular);
+}
+.frame {
+  gap: 190px;
+}
+.whatAreYou {
+  position: relative;
+  line-height: 18px;
+  opacity: 0.5;
+}
+.component2Icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.whatAreYouLookingForParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-15xl);
+}
+.searchComponentSet {
+  border-radius: var(--br-9xs);
+  background-color: var(--secondary);
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xs) var(--padding-6xs)
+    var(--padding-xl);
+}
+.wishlistIcon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.cart1WithBuy,
+.userIcon,
+.wishlistIcon {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.userIcon {
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.header,
+.searchComponentSetParent,
+.wishlistParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.header,
+.searchComponentSetParent {
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--title-12px-regular-size);
+  font-family: var(--title-12px-regular);
+}
+.header {
+  position: absolute;
+  top: 75px;
+  left: 831px;
+  background-color: transparent;
+  width: 1000px;
+  gap: var(--gap-129xl);
+  text-align: left;
+  font-size: var(--heading-24px-bold-size);
+  font-family: var(--heading-24px-bold);
+}
+.infinitiHomepage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4690px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--text2);
+  font-family: var(--title-12px-regular);
+}
